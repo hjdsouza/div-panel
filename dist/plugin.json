@@ -1,0 +1,40 @@
+{
+  "type": "panel",
+  "name": "Div Panel",
+  "id": "grafana-div-panel",
+  "info": {
+    "description": "Create your own panel with html + css and javascript",
+    "author": {
+      "name": "srclosson@gmail.com",
+      "url": "http://grafana.com"
+    },
+    "keywords": [
+      "div",
+      "es6",
+      "htmlnode",
+      "d3"
+    ],
+    "logos": {
+      "small": "img/logo.png",
+      "large": "img/logo.png"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/srclosson/div-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/srclosson/div-panel/blob/main/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "1.2.2",
+    "updated": "2023-09-25"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "grafanaDependency": ">=6.3.0",
+    "plugins": []
+  }
+}
